@@ -1,4 +1,3 @@
-# johntrabolsareport
 John Trabolsa - Dashboard Power BI 🚀
 📊 Descripción del Proyecto
 Dashboard profesional de análisis de ventas de pouches de nicotina John Trabolsa. Desarrollado con Power BI Desktop para visualizar KPIs, tendencias y distribución de sabores.
